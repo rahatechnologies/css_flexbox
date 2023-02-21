@@ -1,0 +1,37 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #f3f3f3f3;
+}
+
+.row-container, .column-container{
+    border: 0.2rem solid red;
+}
+
+.box{
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: #f3f3f3f3;
+    /* margin-top: 2rem; */
+}
+
+.box-1{
+    background: #581f18;
+    /* height: 10rem; */
+    /* margin-top: unset; */
+}
+.box-2 {
+    background: #1e1858;
+}
+.box-3 {
+    background: #f0aa05;
+}
+.box-4 {
+    background: #ec240a;
+}
+.box-5 {
+    background: #12e707;
+}
+.custom{
+    background: #e405f0;
+}
